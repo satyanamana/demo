@@ -1,9 +1,9 @@
 # demo
 justdemo
 satya
-<!DOCTYPE html>
-<html>
-  <head>
-<title>hi satya</title>
-  </head>
+<!DOCTYPE html><br>
+<html><br>
+  <head><br>
+<title>hi satya</title><br>
+  </head><br>
 </html>
